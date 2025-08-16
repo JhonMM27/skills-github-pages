@@ -1,4 +1,4 @@
 ---
-title: CESAR GORDOOOO!
+title: CESAR-GORDOOOO!
 date: 2025-08-15
 ---

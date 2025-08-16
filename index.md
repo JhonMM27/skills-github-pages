@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-#Sexo
+date: YYYY-MM-DD
 ---
